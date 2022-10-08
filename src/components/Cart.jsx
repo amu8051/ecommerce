@@ -5,8 +5,8 @@ import { delFromCart } from './../redux/action';
 import { NavLink } from 'react-router-dom';
 
 const Cart = () => {
-  const [total, setTotal] = useState(0);
-  // let total = 0;
+  // const [total, setTotal] = useState(0);
+  let total = 0;
   const state = useSelector((state) => state.handleCart);
   const dispatch = useDispatch();
   console.log(state, 'state In cart!!!!');
@@ -30,7 +30,7 @@ const Cart = () => {
 
   const CartItems = ({ cartItems }) => {
     return cartItems.map((cartItem) => {
-      // total = total + cartItem.price;
+      total = total + cartItem.price;
       // setTotal(total + cartItem.price);
       console.log(cartItem, 'Item in cart');
       return (
