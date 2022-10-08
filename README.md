@@ -7,6 +7,6 @@ An ECommerce App in React using Redux replicating functionalities like
 
 Try it out: https://golden-zabaione-23517d.netlify.app/
 
-![Cart](https://user-images.githubusercontent.com/26090486/194707691-b0b85432-d742-4408-bc26-08a703f72022.png)
-![Product](https://user-images.githubusercontent.com/26090486/194707694-e6657f0e-e6fa-4ada-a1e9-37c019ace75a.png)
-![Home](https://user-images.githubusercontent.com/26090486/194707697-727f3ebd-9786-424e-9b3c-110c215d5c5f.png)
+![Cart](https://user-images.githubusercontent.com/26090486/194707777-842ab729-4348-4054-b472-82315271d92a.png)
+![Product](https://user-images.githubusercontent.com/26090486/194707786-c402c7e9-9dd2-4bd2-833c-53e261ef0a99.png)
+![Home](https://user-images.githubusercontent.com/26090486/194707790-e35098b5-f304-4997-9766-fee3f6d2f02e.png)
