@@ -5,7 +5,7 @@ An ECommerce App in React using Redux replicating functionalities like
 - Remove from Cart
 - Checkout
 
-Try it out: https://golden-zabaione-23517d.netlify.app/
+Try it out: https://ecommerce-fashion-react.netlify.app/
 
 ![Cart](https://user-images.githubusercontent.com/26090486/194707777-842ab729-4348-4054-b472-82315271d92a.png)
 ![Product](https://user-images.githubusercontent.com/26090486/194707786-c402c7e9-9dd2-4bd2-833c-53e261ef0a99.png)
